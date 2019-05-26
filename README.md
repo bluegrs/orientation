@@ -4,7 +4,7 @@ Documentation for new team members to familiarize with blueGRS workflow.
 Files to generate the images used in this readme are located in the repository
 in case documentation updates are required.
 
-## Github Workflow
+## Git Workflow
 All _blueGRS_ repositories must follow this workflow in order to ensure a working 
 version is always publicly available. New team members can run a working version
 of the project on the master (release) branch before jumping into the development 
